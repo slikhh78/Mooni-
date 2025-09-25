@@ -1,0 +1,7 @@
+{
+  "name": "Mooni: AI Sleep & Wellness",
+  "description": "An AI-powered sleep and wellness application designed to help you achieve restful nights and mindful days. Features smart sleep sounds, guided meditations, sleep tracking, and a personal AI sleep coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
